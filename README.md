@@ -1,11 +1,11 @@
 # Household Viewing Behavior Analysis
 
-This project analyzes television viewing behavior using household demographic data and streaming event data.  
-The goal is to determine whether demographic-based clustering reflects meaningful differences in content consumption patterns.
+This project analyzes large-scale TV viewing data using household demographic features and streaming event logs.  
+The objective is to evaluate whether demographic-based clustering reveals meaningful differences in content consumption patterns.
 
 ## Project Overview
 
-The system performs:
+The pipeline includes:
 
 - Demographic feature extraction and normalization  
 - Dimensionality reduction using PCA  
